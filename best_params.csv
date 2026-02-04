@@ -1,0 +1,2 @@
+,Model,Best Score,Best Results
+3,Decision Tree,0.7159449051642652,"{'clf__max_depth': 10, 'clf__min_samples_leaf': 5}"
